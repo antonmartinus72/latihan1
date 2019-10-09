@@ -5,7 +5,9 @@ Dimulai dari Instalasi perangkat lunak Git sampai repositori baru dibuat.
 Di sini saya akan menggunakan Github.com sebagai managemen proyek yang akan kita pakai dalam petunjuk ini.
 
 ## Permulaan
-Pertama kita akan menginstall 
+Pertama kita akan menginstall
+
+![alt text](https://github.com/antonmartinus72/latihan1/blob/master/img/Img_1.png)
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
